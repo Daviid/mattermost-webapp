@@ -659,7 +659,7 @@ export const Constants = {
         image: 'image',
     },
     MAX_UPLOAD_FILES: 50,
-    MAX_FILENAME_LENGTH: 35,
+    MAX_FILENAME_LENGTH: 45,
     THUMBNAIL_WIDTH: 128,
     THUMBNAIL_HEIGHT: 100,
     WEB_VIDEO_WIDTH: 640,
